@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Bakersfield Rescue Mission",
+    "lat": 35.3733,
+    "lng": -119.0187,
+    "services": ["Shelter", "Meals", "Medical screenings", "Case management"]
+  },
+  {
+    "id": 2,
+    "name": "Mercy House — Downtown Outreach",
+    "lat": 35.3755,
+    "lng": -119.0185,
+    "services": ["Wound care", "Mental health referrals", "Hygiene kits", "Food distribution"]
+  },
+  {
+    "id": 3,
+    "name": "Kern County Free Clinic",
+    "lat": 35.3699,
+    "lng": -119.0302,
+    "services": ["Primary care", "Dental", "Vision", "Prescription assistance"]
+  },
+  {
+    "id": 4,
+    "name": "Mill Creek Park Outreach",
+    "lat": 35.3780,
+    "lng": -119.0233,
+    "services": ["Street medicine rounds", "Vaccination", "Harm reduction", "Referrals"]
+  },
+  {
+    "id": 5,
+    "name": "Union Ave Encampment Site",
+    "lat": 35.3651,
+    "lng": -119.0374,
+    "services": ["Street medicine rounds", "Wound care", "Behavioral health", "Hygiene supplies"]
+  },
+  {
+    "id": 6,
+    "name": "Centennial Park Mobile Unit",
+    "lat": 35.3835,
+    "lng": -119.0158,
+    "services": ["Mobile health van", "Blood pressure checks", "TB screening", "Socks & hygiene kits"]
+  }
+]
