@@ -149,7 +149,7 @@ export default function Map({ locations }: MapProps) {
       <button
         onClick={locateUser}
         disabled={locating}
-        className="absolute bottom-6 right-3 z-[1000] flex items-center justify-center w-10 h-10 rounded-full bg-white shadow-lg border border-gray-200 hover:bg-gray-50 active:bg-gray-100 transition-colors disabled:opacity-60"
+        className="absolute top-4 left-3 z-[1000] flex items-center justify-center w-10 h-10 rounded-full bg-white shadow-lg border border-gray-200 hover:bg-gray-50 active:bg-gray-100 transition-colors disabled:opacity-60"
         title="Show my location"
       >
         {locating ? (
